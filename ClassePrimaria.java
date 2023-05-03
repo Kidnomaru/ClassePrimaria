@@ -10,15 +10,17 @@ public ClassePrimaria (String nome,int cpf, int senha ) {
 
 }
 
-public class getNome (){
-    return = nome;
+public String getNome (){
+    return  nome;
 
 }
-public class getcpf (){
-    return = cpf;
+public int getcpf (){
+    return  cpf;
    
 }
-public class getsenha(){
+public int getsenha(){
+    return  senha;
+
 
 }
 public void setNome (){
